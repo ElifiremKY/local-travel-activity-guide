@@ -43,4 +43,13 @@ Bu yapı sayesinde sistem ölçeklenebilir ve yönetilebilir hale gelir.
 ---
 
 ## 🧪 İleride Eklenebilecekler
-- `database.sql` dosyası (C
+- `database.sql` dosyası (CREATE TABLE komutları)  
+- ER diyagramının PNG versiyonu  
+- Örnek test verileri  
+- Basit bir Python/Java arayüzü  
+
+---
+
+## 👩‍💻 Geliştirici  
+**Elif İrem Kaya**  
+Veri Tabanı Tasarımı • SQL • Sistem Analizi  
